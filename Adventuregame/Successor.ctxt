@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Successor
+comment1.params=n\ m
+comment1.target=Successor(Scan,\ ending)
+comment2.params=
+comment2.target=int\ reaction()
+numComments=3

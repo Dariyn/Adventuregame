@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Suddenattack
+comment1.params=n\ m\ o
+comment1.target=Suddenattack(Scan,\ Userweaponchoice,\ Userchoosepath)
+comment2.params=
+comment2.target=int\ action()
+numComments=3

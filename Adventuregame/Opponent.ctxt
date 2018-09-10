@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Opponent
+comment1.params=n\ m
+comment1.target=Opponent(Scan,\ Successor)
+comment2.params=
+comment2.target=int\ opponentchoice()
+numComments=3

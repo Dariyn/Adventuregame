@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Userweaponchoice
+comment1.params=n\ m
+comment1.target=Userweaponchoice(Scan,\ Opponent)
+comment2.params=
+comment2.target=int\ weaponchoice()
+numComments=3
